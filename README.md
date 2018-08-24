@@ -1,4 +1,4 @@
-# promise-retryer [![Build Status](https://travis-ci.org/icodeforlove/atmpt.png?branch=master)](https://travis-ci.org/icodeforlove/atmpt)
+# atmpt [![Build Status](https://travis-ci.org/icodeforlove/atmpt.png?branch=master)](https://travis-ci.org/icodeforlove/atmpt)
 
 provides an easy way to make promises retry based on exceptions
 
