@@ -1,8 +1,8 @@
 {
 	"name": "atmpt",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "provides an easy way to make promises retry based on exceptions or result validation",
-	"main": "index.babel.js",
+	"main": ".index.babel.js",
 	"scripts": {
 		"test": "mocha --require babel-core/register",
 		"build": "webpack; npm run test"
