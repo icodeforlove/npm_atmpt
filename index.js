@@ -1,6 +1,6 @@
 const delayPromise = ms => new Promise(resolve => setTimeout(()=>resolve(), ms));
 
-export default (func, config = {}) => {
+module.exports = (func, config = {}) => {
 	let delay = config.delay || 1000,
 		maxAttempts = config.maxAttempts || 5;
 
