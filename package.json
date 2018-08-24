@@ -1,6 +1,6 @@
 {
 	"name": "atmpt",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "provides an easy way to make promises retry based on exceptions or result validation",
 	"main": ".index.babel.js",
 	"scripts": {
